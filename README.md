@@ -109,8 +109,6 @@ Source/
 
    The API will be live at `http://localhost:5454`.
 
-> Need a Gmail app password? This video shows how: https://youtu.be/T0Op3Qzz6Ms
-
 ### 2. Frontend
 
 ```bash
