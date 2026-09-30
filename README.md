@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="docs/images/banner.jpg" alt="Food Delivery App banner" width="100%">
-</p>
-
 # 🍔 Food Delivery App (React + Spring Boot)
 
 A full-stack online food ordering app. Customers can browse restaurants, add dishes to a cart, and pay online. Restaurant owners get their own dashboard to manage menus and orders. An admin can look after the whole platform.
-
-I built this while following a YouTube tutorial and then customised and extended it. Tutorial I followed: [Watch on YouTube](https://www.youtube.com/watch?v=9jkCJNoT4QA&t=1s)
 
 ---
 
@@ -46,29 +40,6 @@ I built this while following a YouTube tutorial and then customised and extended
 | Payments | Razorpay, Stripe |
 | Image upload | Cloudinary (from the frontend) |
 | API testing | Postman collection included |
-
----
-
-## A peek at the look and feel
-
-These are the kind of food and restaurant pictures used as sample data in the app.
-
-| | | |
-|---|---|---|
-| <img src="docs/images/pizza.jpg" width="250"> | <img src="docs/images/burger.jpg" width="250"> | <img src="docs/images/biryani.jpg" width="250"> |
-| <img src="docs/images/wrap.jpg" width="250"> | <img src="docs/images/noodles.jpg" width="250"> | <img src="docs/images/fried-chicken.jpg" width="250"> |
-| <img src="docs/images/restaurant-interior.jpg" width="250"> | <img src="docs/images/street-cafe.jpg" width="250"> | <img src="docs/images/pasta-and-beer.jpg" width="250"> |
-
-### App screenshots
-
-> 📸 Add your own screenshots here after running the app (see [`docs/screenshots/README.md`](docs/screenshots/README.md) for the list of pages worth capturing).
-
-<!-- Once you've added screenshots, uncomment and edit these:
-![Home page](docs/screenshots/home.png)
-![Restaurant page](docs/screenshots/restaurant.png)
-![Cart](docs/screenshots/cart.png)
-![Admin dashboard](docs/screenshots/admin-dashboard.png)
--->
 
 ---
 
@@ -200,7 +171,3 @@ The full list is in the included Postman collection (`Zosh Food.postman_collecti
 Working on this taught me how a real full-stack app fits together: role-based security with JWT, Redux state management, connecting a payment gateway, and building separate experiences for customers and restaurant owners.
 
 ---
-
-## Contact
-
-Made by **YOUR NAME** – [GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · your.email@example.com
